@@ -1,0 +1,27 @@
+== clip f1 seed 11 09:59:53
+ok sites/golden-fingers/clips/f1.mp4.tmp.mp4 121 frames, 137s total
+== done f1 10:02:14
+== clip f2 seed 12 10:02:14
+ok sites/golden-fingers/clips/f2.mp4.tmp.mp4 121 frames, 151s total
+== done f2 10:04:53
+== clip f3 seed 13 10:04:53
+ok sites/golden-fingers/clips/f3.mp4.tmp.mp4 121 frames, 133s total
+== done f3 10:07:11
+== clip f4 seed 14 10:07:11
+ok sites/golden-fingers/clips/f4.mp4.tmp.mp4 121 frames, 130s total
+== done f4 10:09:25
+   waiting for sites/golden-fingers/kf/k6.webp sites/golden-fingers/kf/k7.webp 10:09:25
+== clip f6 seed 16 10:15:25
+ok sites/golden-fingers/clips/f6.mp4.tmp.mp4 121 frames, 132s total
+== done f6 10:17:41
+== clip of seed 21 10:17:41
+ok sites/golden-fingers/clips/of.mp4.tmp.mp4 121 frames, 131s total
+== done of 10:19:55
+   waiting for sites/golden-fingers/kf/a1.webp sites/golden-fingers/kf/a1.webp 10:19:55
+== clip al seed 31 10:24:26
+ok sites/golden-fingers/clips/al.mp4.tmp.mp4 121 frames, 136s total
+== done al 10:26:45
+== clip cl seed 41 10:26:45
+ok sites/golden-fingers/clips/cl.mp4.tmp.mp4 121 frames, 138s total
+== done cl 10:29:07
+== ALL DONE 10:29:07

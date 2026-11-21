@@ -1,0 +1,10 @@
+== retry f1b seed 57 10:29:10
+ok sites/golden-fingers/clips/f1b.tmp.mp4 121 frames, 128s total
+== retry done f1b 10:31:22
+== retry f3b seed 63 10:31:22
+ok sites/golden-fingers/clips/f3b.tmp.mp4 121 frames, 129s total
+== retry done f3b 10:33:34
+== retry f4b seed 74 10:33:34
+ok sites/golden-fingers/clips/f4b.tmp.mp4 121 frames, 129s total
+== retry done f4b 10:35:47
+== RETRIES DONE 10:35:47
